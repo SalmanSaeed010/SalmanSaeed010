@@ -1,16 +1,20 @@
-## Hi there 👋
+I am a highly skilled Senior Backend Developer with over 9 years in the software development industry, specializing in PHP, Laravel, Elixir, Vue.js, and WordPress. I have extensive experience in building scalable, efficient, and high-performance backend systems, with a strong focus on both custom development and WordPress-based solutions.
 
-<!--
-**SalmanSaeed010/SalmanSaeed010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My expertise spans a range of modern technologies, enabling me to deliver robust and maintainable software solutions across various platforms. Whether it’s creating custom backend applications, optimizing WordPress websites, or developing API-driven solutions, I am committed to delivering high-quality code tailored to the unique needs of each project.
 
-Here are some ideas to get you started:
+Core Competencies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: PHP, Elixir, JavaScript, TypeScript
+Backend Frameworks: Laravel, CodeIgniter, Zendframework, Phoenix, Vue.js
+Databases: MySQL, PostgreSQL, MongoDB, NoSQL
+Cloud Technologies: AWS, DigitalOcean, Docker
+Version Control: Git, GitHub, GitLab, Bitbucket
+API Development: RESTful APIs, GraphQL, Third-party integrations
+WordPress Development: Custom Themes, Plugins, WooCommerce, Multisite, Performance Optimization
+I am highly proficient in WordPress, having worked on numerous custom theme and plugin developments, as well as optimizing existing WordPress sites for speed and scalability. Additionally, I excel in Laravel and Elixir to build complex, enterprise-grade applications and API systems. With Elixir/Phoenix, I deliver high-performance server-side solutions that scale effortlessly.
+
+Throughout my career, I’ve worked closely with clients to deliver on-time, quality software solutions, whether through independent or collaborative efforts. I take pride in my problem-solving skills, effective communication, and ability to adapt to new technologies and methodologies.
+
+If you’re looking for a reliable developer who combines backend expertise with WordPress proficiency, I would be excited to collaborate on your next project.
+
+Thank you for taking the time to view my profile. Let’s connect and discuss how I can help you achieve your goals!
