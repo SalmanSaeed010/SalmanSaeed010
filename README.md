@@ -10,7 +10,7 @@ My expertise spans a range of modern technologies, enabling me to deliver robust
 - **Backend Frameworks:** Laravel, Phoenix, CodeIgniter, Zendframework
 - **Frontend:** Vue.js, React, Tailwind, Bootstrap, CSS, HTML5
 - **Databases:** MySQL, PostgreSQL, MongoDB, NoSQL
-- **Cloud Technologies:** AWS, DigitalOcean, Docker
+- **Cloud Technologies:** AWS, Azure, DigitalOcean, Docker
 - **Version Control:** Git, GitHub, GitLab, Bitbucket
 - **API Development:** RESTful APIs, GraphQL, Third-party integrations
 - **WordPress Development:** Custom Themes, Plugins, WooCommerce, Multisite, Performance Optimization
