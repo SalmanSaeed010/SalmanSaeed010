@@ -1,4 +1,4 @@
-# Software Engineer(PHP/Laravel Elixir/Phoenix, Vue.js, Wordpress, Tailwind, CSS)
+# Software Engineer(PHP/Laravel, Elixir/Phoenix, Vue.js, Wordpress)
 
 I am a highly skilled Senior Backend Developer with over 9 years in the software development industry, specializing in PHP, Laravel, Elixir, Vue.js, and WordPress. I have extensive experience in building scalable, efficient, and high-performance backend systems, with a strong focus on both custom development and WordPress-based solutions.
 
@@ -7,7 +7,8 @@ My expertise spans a range of modern technologies, enabling me to deliver robust
 ## 🛠️ Core Competencies
 
 - **Languages:** PHP, Elixir, JavaScript, TypeScript
-- **Backend Frameworks:** Laravel, CodeIgniter, Zendframework, Phoenix, Vue.js
+- **Backend Frameworks:** Laravel, Phoenix, CodeIgniter, Zendframework
+- **Frontend:** Vue.js, React, Tailwind, Bootstrap, CSS, HTML5
 - **Databases:** MySQL, PostgreSQL, MongoDB, NoSQL
 - **Cloud Technologies:** AWS, DigitalOcean, Docker
 - **Version Control:** Git, GitHub, GitLab, Bitbucket
@@ -29,5 +30,6 @@ Thank you for taking the time to view my profile. Let's connect and discuss how 
 ---
 
 📧 **Get in touch:** 
-salmancheema010@gmail.com
-https://www.linkedin.com/in/salman-saeed-273053bb
+Email: salmancheema010@gmail.com
+
+LinkedId: https://www.linkedin.com/in/salman-saeed-273053bb
